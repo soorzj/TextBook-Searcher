@@ -2,11 +2,11 @@
 
 ### Available Search engines:
 
-<img width="310"  alt="image" src="https://github.com/user-attachments/assets/686efc43-2d20-466c-b6fc-43efef0db206" />
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/686efc43-2d20-466c-b6fc-43efef0db206" />
 
-<img width="310"  alt="image" src="https://github.com/user-attachments/assets/f0167832-ae1f-4e59-9ffd-ebc79fe68414" />
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/f0167832-ae1f-4e59-9ffd-ebc79fe68414" />
 
-<img width="310"  alt="image" src="https://github.com/user-attachments/assets/6a9573b7-05dd-43c9-b4b8-23fd54d854b4" />
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/6a9573b7-05dd-43c9-b4b8-23fd54d854b4" />
 
 ***
 ### Adding soon!
