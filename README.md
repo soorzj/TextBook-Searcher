@@ -14,7 +14,8 @@
 `PirateBay`
 `Manga`
 `epubs`
-`kindle editions` and more!
+`Goodreads` `Internet Archive` `WorldCat` `Project Gutenberg` `Kindle Store` `Apple Books` `Kobo Books` `Barnes and Noble` `Scribd` `OverDrive` `Libby` `ManyBooks` `PDF Drive` `BookFinder` `OpenStax` `HathiTrust`
+ and more!
 
 The possibilites are endless
 ***
